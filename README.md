@@ -4,7 +4,11 @@
 
 Guided project hosted by DataCamp.
 
-Link to [Jupyter Notebook](https://github.com/DazhonH/SQL-Data-Analysis-The-Oldest-Business-in-the-World/blob/main/notebook.ipynb)
+* Link to [Jupyter Notebook](https://github.com/DazhonH/SQL-Data-Analysis-The-Oldest-Business-in-the-World/blob/main/notebook.ipynb)
+
+* Link to [SQL Code](https://github.com/DazhonH/SQL-Data-Analysis-The-Oldest-Business-in-the-World/blob/main/notebook.py)
+
+
 
 ## Scenario
 
