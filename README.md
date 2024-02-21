@@ -24,7 +24,7 @@ The database contains three tables.
 
 * businesses
 
-  ## Technologies
+## Technologies
 
 * PostgreSQL
 
